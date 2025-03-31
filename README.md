@@ -1,5 +1,10 @@
 # 💫 About Me:
-👋 Hi, I’m @beastbroak30<br>👀 I’m interested in iot projects specially in micropython on a budget<br>🌱 I’m currently learning about ML ,cpp & about hardware<br>💞️ I’m looking to collaborate on with the people who are making prj with board also in micropython and other language<br>📫 How to reach me email me at akantarip30@gmail.com
+👋 Hi, I’m @beastbroak30<br>
+👀 I’m interested in IoT, hardware, and programming<br>
+🌱 I’m currently learning Machine Learning (ML), C++, and hardware development<br>
+💡 I have experience with embedded systems, Appwrite, React Native (Expo), and modem hacking <br>
+💞️ I’m looking to collaborate on IoT, embedded systems, and hardware-based projects<br>
+📫 How to reach me: email me at akantarip30@gmail.com<br>
 
 
 ## 🌐 Socials:
