@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m @beastbroak30<br>
-👀 I’m interested in IoT, hardware, and programming<br>
+👀 I’m interested in IoT, hardware, Edge AI and programming<br>
 🌱 I’m currently learning Baremetal, C++, and hardware development<br>
 💡 I have experience with embedded systems ,baremetal ,Hardware solutions and low level programming<br>
 💞️ I’m looking to collaborate on IoT, embedded systems, and hardware-based projects<br>
