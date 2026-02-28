@@ -9,7 +9,7 @@ This project is a physical manifestation of the **"Built to Finish"** philosophy
 ## Hardware Demonstration
 
 <p align="center">
-  <video src="assets/flappycard_demo.mp4" width="100%" controls autoplay loop muted>
+  <video src="https://github.com/user-attachments/assets/3e7c46fd-e469-4ea8-b5b5-d90f4f7ad7be" width="100%" controls autoplay loop muted>
     Your browser does not support the video tag.
   </video>
   <br>
