@@ -8,13 +8,21 @@ This project is a physical manifestation of the **"Built to Finish"** philosophy
 
 ## Hardware Demonstration
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/3e7c46fd-e469-4ea8-b5b5-d90f4f7ad7be" width="100%" controls autoplay loop muted>
-    Your browser does not support the video tag.
-  </video>
-  <br>
-  <i>Real-time C++ physics and 8x8 matrix rendering on the ATtiny85.</i>
-</p>
+<div align="center">
+  <div style="width: 200px; height: 400px; overflow: hidden; display: flex; align-items: center; justify-content: center; border-radius: 8px; border: 1px solid #333;">
+    <video 
+      src="https://github.com/user-attachments/assets/1a019c49-8cb8-4815-9944-753374844a9a" 
+      style="transform: rotate(270deg); min-width: 200px; min-height: 400px;" 
+      autoplay 
+      loop 
+      playsinline>
+    </video>
+  </div>
+  <p><i>Real-time C++ physics and 8x8 matrix rendering on the ATtiny85.</i></p>
+</div>
+
+
+
 
 ---
 
