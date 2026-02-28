@@ -37,7 +37,7 @@ This project is a physical manifestation of the **"Built to Finish"** philosophy
 
 ---
 
-## 📊 System Specifications
+##  System Specifications
 
 | Component | Specification | Purpose |
 | :--- | :--- | :--- |
@@ -50,7 +50,7 @@ This project is a physical manifestation of the **"Built to Finish"** philosophy
 
 ---
 
-## 🧠 The Optimization Challenge
+##  The Optimization Challenge
 
 Building this was about more than just a game; it was about proving that **impact** can be achieved with minimal resources. Managing a 94% accuracy mindset in research begins here—by ensuring every byte of memory and every clock cycle is used with intent.
 
