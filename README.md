@@ -37,12 +37,12 @@ Additionally, I enjoy expanding my knowledge, and because of that, I am open to 
 --- 
 
 #### In the meantime I research about the next system that could help Edge AI become more powerfull.
-- 📡 In review of paper RSSI-based Human Sensing research with 94% accuracy.
+-  In review of paper RSSI-based Human Sensing research with 94% accuracy.
 - Working on KANRE (Embedded system solutions).
 - Love to Play Lawn Tennis & Kho-Kho.
 - **If you have seen the above banner thats a card that plays flappy bird [Demo Here](assets/readmecard.md)**
 
 #### List of Honors
-- International Scholarship: Selected for the Natsu Project '26 in Tokyo, Japan, as an Independent Researcher.
+- International Scholarship: Selected for the [Natsuyasumi Project '26](https://www.natsuproject.org/) in Tokyo, Japan, as an Independent Researcher.
 - IIT Bombay Meshmerize Champion: Ranked 1st Place at the zonal level, competing as the only school team against 38 college-level teams.
 - Scientific Publication: Authored and submitted a peer-reviewed manuscript on RSSI-based Human Presence Estimation to the Internet of Things and Cyber-Physical Systems journal.
