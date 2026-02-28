@@ -40,7 +40,7 @@ Additionally, I enjoy expanding my knowledge, and because of that, I am open to 
 - 📡 In review of paper RSSI-based Human Sensing research with 94% accuracy.
 - Working on KANRE (Embedded system solutions).
 - Love to Play Lawn Tennis & Kho-Kho.
-- **If you have seen the above banner thats a card that plays flappy bird [Demo Here]()**
+- **If you have seen the above banner thats a card that plays flappy bird [Demo Here](assets/readmecard.md)**
 
 #### List of Honors
 - International Scholarship: Selected for the Natsu Project '26 in Tokyo, Japan, as an Independent Researcher.
