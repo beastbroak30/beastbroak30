@@ -32,6 +32,7 @@ This project is a physical manifestation of the **"Built to Finish"** philosophy
 * **8x8 LED Matrix Driver:** Custom-written refresh logic to render the "bird" and scrolling "pipes" with zero perceptible lag.
 * **Low-Latency Input:** Utilizes an external hardware interrupt on the "Press it man!!" tactile switch for frame-perfect jumping.
 * **NFC Data Transmission:** Features a passive **NFC chip** that allows the card to share portfolio data even when disconnected from power.
+*  **Battery Time:** Can last upto ~28 Days in a single charge with 10 uses per day session of 1 min or less. 
 * **Universal Powering:** Integrated **USB-C port** for modern compatibility across all mobile and computing devices.
 
 ---
