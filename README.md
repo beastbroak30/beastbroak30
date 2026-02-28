@@ -2,7 +2,7 @@
   <img src="assets/banner.png" alt="Antarip Kar Banner" width="100%">
 </p>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, This is Antarip Here.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello! This is Antarip Here.
 
 I am an Embedded Systems Engineer and IoT Developer with expertise in hardware development, baremetal, RTOS and Edge AI.
 Welcome to my page; on my Github, you can find:
