@@ -4,7 +4,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello! This is Antarip Here.
 
-I am an Embedded Systems Engineer and IoT Developer with work in hardware development, baremetal, RTOS and Edge AI.
+I am a student but loves to call hinself— Embedded System Engineer and IoT Developer with work in hardware development, baremetal, RTOS and Edge AI.
 Welcome to my page; on my Github, you can find:
 
 - Projects created by me
