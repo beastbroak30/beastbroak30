@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Antarip Kar Banner" width="100%">
+  <a href="assets/readmecard.md">
+    <img src="assets/banner.png" alt="Antarip Kar Banner" width="100%">
+  </a>
 </p>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello! This is Antarip Here.
