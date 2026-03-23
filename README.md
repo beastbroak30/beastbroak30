@@ -25,7 +25,7 @@ Welcome to my page; on my Github, you can find:
 ![GITHUB Stats](https://raw.githubusercontent.com/beastbroak30/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/beastbroak30/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ---
-### I am a student that wants to do full time embedded system creations 
+### I am a student that wants to do & tries to do full time embedded system engineering 
 
 In my view, the best approach is to pick the tech that's just right for the problem.
 Additionally, I enjoy expanding my knowledge, and because of that, I am open to learning new technologies and languages 🐱‍👓
