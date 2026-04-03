@@ -4,8 +4,8 @@
   </a>
 </p>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello! This is Antarip Here.
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&weight=300&size=25&duration=2000&pause=5000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello!+This+is+Antarip+Here.)](https://git.io/typing-svg)
+---
 I am a student but loves to call himself— Embedded System Engineer and IoT Developer with work in hardware development, baremetal, RTOS and Edge AI.
 Welcome to my page; on my Github, you can find:
 
