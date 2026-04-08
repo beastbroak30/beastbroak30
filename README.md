@@ -46,4 +46,4 @@ Additionally, I enjoy expanding my knowledge, and because of that, I am open to 
 #### List of Honors
 - International Scholarship: Selected for the [Natsuyasumi Project '26](https://www.natsuproject.org/) in Tokyo, Japan, as an Independent Researcher.
 - IIT Bombay Meshmerize Champion: Ranked 1st Place at the zonal level, competing as the only school team against 38 college-level teams.
-- Scientific Publication: Authored and submitted a peer-reviewed manuscript on RSSI-based Human Presence Estimation to the Internet of Things and Cyber-Physical Systems journal.
+- Scientific Publication: Authored and submitted a peer-reviewed manuscript on RSSI-based Human Presence Estimation to the  IEEE Internet of Things Journal
