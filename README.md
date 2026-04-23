@@ -4,7 +4,7 @@
   </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&weight=300&size=25&duration=2000&pause=5000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello!+This+is+Antarip+Here.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&weight=300&size=25&duration=2000&pause=5000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello!+This+is+Antarip+Here.)](https://github.com/beastbroak30)
 ---
 I am a student but loves to call himself— Embedded System Engineer and IoT Developer with work in hardware development, baremetal, RTOS and Edge AI.
 Welcome to my page; on my Github, you can find:
