@@ -10,7 +10,7 @@ I am a student but loves to call himself— Embedded System Engineer and IoT Dev
 Welcome to my page; on my Github, you can find:
 
 - Projects created by me
-- Low-level programming implementations
+- Low-level programming
 - IoT, hardware and Edge AI solutions
 - AI/ML Projects
   
