@@ -21,8 +21,8 @@ Welcome to my page; on my Github, you can find:
 
 #### 📜 Github stats:
 
-![GITHUB Stats](https://raw.githubusercontent.com/beastbroak30/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/beastbroak30/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![GITHUB Stats](https://raw.githubusercontent.com/beastbroak30/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/beastbroak30/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![GITHUB Stats](https://raw.githubusercontent.com/beastbroak30/github-stats/blob/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/beastbroak30/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![GITHUB Stats](https://raw.githubusercontent.com/beastbroak30/github-stats/blob/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/beastbroak30/github-stats/blob/generated/languages.svg#gh-light-mode-only)
 
 ---
 ### I am a student that wants to do & tries to do full time embedded system engineering 
