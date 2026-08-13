@@ -47,3 +47,4 @@ Additionally, I enjoy expanding my knowledge, and because of that, I am open to 
 - International Scholarship: Selected for the [Natsuyasumi Project '26](https://www.natsuproject.org/) in Tokyo, Japan, as an Independent Researcher.
 - IIT Bombay Meshmerize Champion: Ranked 1st Place at the zonal level, competing as the only school team against 38 college-level teams.
 - Scientific Publication: Authored and submitted a peer-reviewed manuscript on RSSI-based Human Presence Estimation.
+- Research Grant: Emergent Venture Fellow
