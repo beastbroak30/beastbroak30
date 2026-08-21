@@ -44,7 +44,7 @@ Additionally, I enjoy expanding my knowledge, and because of that, I am open to 
 - **If you have seen the above image, that is actually a card that plays flappy bird [Demo Here](assets/readmecard.md)**
 
 #### List of Honors
-- International Scholarship: Selected for the [Natsuyasumi Project '26](https://www.natsuproject.org/) in Tokyo, Japan, as an Independent Researcher.
+- International Scholarship: Selected for the [Natsuyasumi Project '26](https://www.natsuproject.org/) in Tokyo, Japan, as an Independent RResearcher
+- Research Funds Granted by Emergent Venture Fellow for TRNG development. 
 - IIT Bombay Meshmerize Champion: Ranked 1st Place at the zonal level, competing as the only school team against 38 college-level teams.
 - Scientific Publication: Authored and submitted a peer-reviewed manuscript on RSSI-based Human Presence Estimation.
-- Research Grant: Emergent Venture Fellow
