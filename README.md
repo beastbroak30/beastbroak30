@@ -48,3 +48,4 @@ Additionally, I enjoy expanding my knowledge, and because of that, I am open to 
 - Research Funds Granted by Emergent Venture Fellow for TRNG development. 
 - IIT Bombay Meshmerize Champion: Ranked 1st Place at the zonal level, competing as the only school team against 38 college-level teams.
 - Scientific Publication: Authored and submitted a peer-reviewed manuscript on RSSI-based Human Presence Estimation.
+- Got Accepted to TIB for Hardware Lab and Membership (Sad coudn't join for geography)
