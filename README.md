@@ -17,8 +17,6 @@ Welcome to my page; on my Github, you can find:
 #### 📧 Where you can find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beastbroak30) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/beastbroak30)
 
-*I am open to new opportunities.*
-
 #### 📜 Github stats:
 
 ![GITHUB Stats](https://github.com/beastbroak30/github-stats/blob/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://github.com/beastbroak30/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
