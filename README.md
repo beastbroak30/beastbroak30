@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&weight=300&size=25&duration=2000&pause=5000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello!+This+is+Antarip+Here.)](https://github.com/beastbroak30)
 ---
-I am a student but loves to call himself— Embedded System Engineer and IoT Developer with work in hardware development, baremetal, RTOS and Edge AI.
+I am a student, but I love to call myself an Embedded Systems Engineer and IoT Developer, with experience in hardware development, bare-metal, RTOS, and Edge AI.
 Welcome to my page; on my Github, you can find:
 
 - Projects created by me
@@ -19,11 +19,11 @@ Welcome to my page; on my Github, you can find:
 
 #### 📜 Github stats:
 
-![GITHUB Stats](https://github.com/beastbroak30/github-stats/blob/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://github.com/beastbroak30/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![GIGitHubtats](https://github.com/beastbroak30/github-stats/blob/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://github.com/beastbroak30/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
 
 
 ---
-### I am a student that wants to do & tries to do full time embedded system engineering 
+### I am a student who wants to do, and tries to do, full-time embedded systems engineering.
 
 In my view, the best approach is to pick the tech that's just right for the problem.
 Additionally, I enjoy expanding my knowledge, and because of that, I am open to learning new technologies and languages 🐱‍👓
@@ -35,15 +35,15 @@ Additionally, I enjoy expanding my knowledge, and because of that, I am open to 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 --- 
 
-#### In the meantime, I research about the next system that could help Edge AI become more powerful.
--  In review of paper RSSI-based Human Sensing research with 94% accuracy.
+#### In the meantime, I am researching the next system that could make Edge AI more powerful.
+- Paper in review: RSSI-based Human Sensing Project (Human Presence Estimation using RSSI)
 - Working on KANRE (Embedded system solutions).
-- Love to Play Lawn Tennis & Kho-Kho.
-- **If you have seen the above image, that is actually a card that plays flappy bird [Demo Here](assets/readmecard.md)**
+- Love to play lawn tennis and kho-kho.
+- **If you have seen the above image banner, that is actually a card that plays Flappy Bird [Demo Here](assets/readmecard.md)**
 
 #### List of Honors
-- International Scholarship: Selected for the [Natsuyasumi Project '26](https://www.natsuproject.org/) in Tokyo, Japan, as an Independent RResearcher
+- International Scholarship: Selected for the [Natsuyasumi Project '26](https://www.natsuproject.org/) in Tokyo, Japan, as an Independent Researcher
 - Research Funds Granted by Emergent Venture Fellow for TRNG development. 
 - IIT Bombay Meshmerize Champion: Ranked 1st Place at the zonal level, competing as the only school team against 38 college-level teams.
 - Scientific Publication: Authored and submitted a peer-reviewed manuscript on RSSI-based Human Presence Estimation.
-- Got Accepted to TIB for Hardware Lab and Membership (Sad coudn't join for geography)
+- Got accepted into the TIB maker lab and Membership (Sadly, I couldn’t join due to geographical constraints.)
