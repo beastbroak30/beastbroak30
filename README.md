@@ -6,18 +6,18 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&weight=300&size=25&duration=2000&pause=5000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello!+This+is+Antarip+Here.)](https://github.com/beastbroak30)
 ---
-I am a student, but I love to call myself an Embedded Systems Engineer and IoT Developer, with experience in hardware development, bare-metal, RTOS, and Edge AI.
-Welcome to my page; on my Github, you can find:
+I am a student, though I like to call myself an Embedded Systems Engineer and IoT Developer, with experience in hardware development, bare-metal programming, RTOS, and Edge AI. 
 
+Welcome to my page! On my GitHub, you can find:
 - Projects created by me
 - Low-level programming
-- IoT, hardware and Edge AI solutions
-- AI/ML Projects
+- IoT, hardware, and Edge AI solutions
+- AI/ML projects
   
 #### 📧 Where you can find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beastbroak30) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/beastbroak30)
 
-#### 📜 Github stats:
+#### 📜 GitHub stats:
 
 ![GIGitHubtats](https://github.com/beastbroak30/github-stats/blob/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://github.com/beastbroak30/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
 
